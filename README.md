@@ -1,6 +1,7 @@
 # Naziv aplikacije
 ## Walk Dog
 
+# Opis aplikacije
 Aplikacija je namijenjena vlasnicima pasa. Cilj aplikacije je olakšati vlasnicima brigu za svoje ljubimce i pružiti im šetnju i brigu koji im vlasnici ne mogu adekvatno pružiti zbog ubrzanog načina života.
 
 Aplikacija pruža:

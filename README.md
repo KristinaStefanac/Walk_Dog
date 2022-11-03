@@ -8,4 +8,5 @@ Aplikacija pruža:
 - mogućnost rezervacije termina i vremenskog intrevala šetnje
 - mogućnost odabira šetača
 - unos podataka vezan za psa/pse
+- pružanje dodatnih usluga (kupanje, nokti)
 - korisnici imaju mogućnost ostavljanje komentara i ocejan obzirom na priženu uslugu
